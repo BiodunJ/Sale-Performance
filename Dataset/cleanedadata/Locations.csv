@@ -1,0 +1,794 @@
+Order_ID,City,State
+B-26776,Miami,Florida
+B-26776,Chicago,Illinois
+B-26470,San Diego,California
+B-26797,New York City,New York
+B-26776,Buffalo,New York
+B-25437,San Diego,California
+B-26942,Orlando,Florida
+B-26942,Miami,Florida
+B-25936,Rochester,New York
+B-26640,Los Angeles,California
+B-25890,New York City,New York
+B-25962,Houston,Texas
+B-25102,New York City,New York
+B-25426,Orlando,Florida
+B-26137,Dallas,Texas
+B-25447,Tampa,Florida
+B-26612,Buffalo,New York
+B-25238,Springfield,Illinois
+B-25051,Rochester,New York
+B-26510,Dallas,Texas
+B-26510,San Diego,California
+B-25104,San Diego,California
+B-25553,Rochester,New York
+B-26703,Austin,Texas
+B-26232,New York City,New York
+B-26232,San Francisco,California
+B-26353,Columbus,Ohio
+B-26730,Houston,Texas
+B-26730,Orlando,Florida
+B-25394,San Francisco,California
+B-25770,Tampa,Florida
+B-25394,Columbus,Ohio
+B-25223,Buffalo,New York
+B-26116,Dallas,Texas
+B-26157,Orlando,Florida
+B-25970,Tampa,Florida
+B-25555,San Diego,California
+B-25555,Cincinnati,Ohio
+B-26139,Orlando,Florida
+B-26592,San Francisco,California
+B-25436,San Diego,California
+B-25032,San Francisco,California
+B-25730,Cleveland,Ohio
+B-25730,Rochester,New York
+B-25730,Los Angeles,California
+B-26743,Columbus,Ohio
+B-25640,Houston,Texas
+B-26470,Cincinnati,Ohio
+B-26470,Austin,Texas
+B-26470,Dallas,Texas
+B-25988,Cincinnati,Ohio
+B-25568,Miami,Florida
+B-25372,Buffalo,New York
+B-26026,Cleveland,Ohio
+B-26026,Los Angeles,California
+B-25295,Miami,Florida
+B-26121,Tampa,Florida
+B-25112,Houston,Texas
+B-26121,Buffalo,New York
+B-25560,San Diego,California
+B-26076,Buffalo,New York
+B-26076,Cleveland,Ohio
+B-25872,New York City,New York
+B-26185,Springfield,Illinois
+B-25131,San Francisco,California
+B-26185,Tampa,Florida
+B-26185,Cincinnati,Ohio
+B-26747,Los Angeles,California
+B-26259,Cleveland,Ohio
+B-26259,Peoria,Illinois
+B-25142,Orlando,Florida
+B-25564,Cincinnati,Ohio
+B-25326,Miami,Florida
+B-26819,Tampa,Florida
+B-25827,Dallas,Texas
+B-25326,Columbus,Ohio
+B-26352,Rochester,New York
+B-26803,Rochester,New York
+B-26795,Houston,Texas
+B-25006,Miami,Florida
+B-25660,Los Angeles,California
+B-25660,Rochester,New York
+B-26972,Springfield,Illinois
+B-25496,Cleveland,Ohio
+B-25410,Austin,Texas
+B-25148,Rochester,New York
+B-25465,Buffalo,New York
+B-25690,Dallas,Texas
+B-26464,Austin,Texas
+B-26464,San Diego,California
+B-26454,Miami,Florida
+B-26742,Dallas,Texas
+B-26046,Miami,Florida
+B-26742,San Francisco,California
+B-25510,San Francisco,California
+B-25510,New York City,New York
+B-25510,Cleveland,Ohio
+B-25936,Austin,Texas
+B-25715,Cleveland,Ohio
+B-25884,San Francisco,California
+B-25884,Cleveland,Ohio
+B-26287,Tampa,Florida
+B-25742,Springfield,Illinois
+B-26564,Orlando,Florida
+B-26293,Dallas,Texas
+B-25915,San Francisco,California
+B-25915,Springfield,Illinois
+B-25915,San Diego,California
+B-26678,Rochester,New York
+B-26496,Los Angeles,California
+B-25856,Springfield,Illinois
+B-25552,New York City,New York
+B-26899,Columbus,Ohio
+B-25916,Chicago,Illinois
+B-25916,Austin,Texas
+B-26910,Rochester,New York
+B-26428,Austin,Texas
+B-26332,Dallas,Texas
+B-26332,Orlando,Florida
+B-25369,Cincinnati,Ohio
+B-26332,Los Angeles,California
+B-25303,Austin,Texas
+B-25303,Cincinnati,Ohio
+B-26507,Rochester,New York
+B-25983,Miami,Florida
+B-25983,Tampa,Florida
+B-25156,Buffalo,New York
+B-26759,Dallas,Texas
+B-26244,Orlando,Florida
+B-26365,Tampa,Florida
+B-26212,Miami,Florida
+B-25042,Chicago,Illinois
+B-25901,Buffalo,New York
+B-26523,Buffalo,New York
+B-25901,Orlando,Florida
+B-25496,Austin,Texas
+B-26752,San Francisco,California
+B-25901,Springfield,Illinois
+B-26698,Cleveland,Ohio
+B-26119,Tampa,Florida
+B-25841,Peoria,Illinois
+B-26032,Houston,Texas
+B-26032,Chicago,Illinois
+B-26580,Dallas,Texas
+B-25352,Miami,Florida
+B-26032,San Francisco,California
+B-25171,Miami,Florida
+B-25919,San Francisco,California
+B-26939,Springfield,Illinois
+B-25258,Buffalo,New York
+B-26347,Miami,Florida
+B-25382,Miami,Florida
+B-26347,Tampa,Florida
+B-25388,San Francisco,California
+B-25388,Chicago,Illinois
+B-25388,Peoria,Illinois
+B-26228,Rochester,New York
+B-25388,Buffalo,New York
+B-26668,Cincinnati,Ohio
+B-25537,Cincinnati,Ohio
+B-26419,San Francisco,California
+B-25870,Cleveland,Ohio
+B-25157,Peoria,Illinois
+B-25006,San Diego,California
+B-25342,Cleveland,Ohio
+B-26932,Cincinnati,Ohio
+B-26165,Peoria,Illinois
+B-26684,Springfield,Illinois
+B-26571,Springfield,Illinois
+B-26219,Cleveland,Ohio
+B-25400,Miami,Florida
+B-26469,Orlando,Florida
+B-25400,Dallas,Texas
+B-26420,Cincinnati,Ohio
+B-25885,Houston,Texas
+B-25004,San Francisco,California
+B-25004,Buffalo,New York
+B-26213,Rochester,New York
+B-26576,San Francisco,California
+B-26357,Rochester,New York
+B-25025,Rochester,New York
+B-26804,Los Angeles,California
+B-25713,Buffalo,New York
+B-26556,Orlando,Florida
+B-26752,Columbus,Ohio
+B-25861,Cleveland,Ohio
+B-25655,New York City,New York
+B-25861,Buffalo,New York
+B-25861,Orlando,Florida
+B-26268,Peoria,Illinois
+B-25112,Dallas,Texas
+B-25714,Dallas,Texas
+B-25714,Miami,Florida
+B-26607,Buffalo,New York
+B-25038,Cincinnati,Ohio
+B-26353,Orlando,Florida
+B-25038,Buffalo,New York
+B-25038,New York City,New York
+B-25763,Miami,Florida
+B-26965,Cleveland,Ohio
+B-26672,Columbus,Ohio
+B-25747,Buffalo,New York
+B-25747,Tampa,Florida
+B-26322,Peoria,Illinois
+B-26613,New York City,New York
+B-25413,San Francisco,California
+B-26466,Dallas,Texas
+B-26610,Cleveland,Ohio
+B-26209,Columbus,Ohio
+B-26522,New York City,New York
+B-26622,Orlando,Florida
+B-26601,San Francisco,California
+B-25894,Cincinnati,Ohio
+B-25153,Austin,Texas
+B-26443,San Diego,California
+B-25905,New York City,New York
+B-26969,Cleveland,Ohio
+B-26969,Rochester,New York
+B-26312,Columbus,Ohio
+B-26312,Houston,Texas
+B-26837,New York City,New York
+B-26837,Cleveland,Ohio
+B-25227,Orlando,Florida
+B-26166,Chicago,Illinois
+B-25346,Cincinnati,Ohio
+B-25695,Rochester,New York
+B-25695,Springfield,Illinois
+B-26068,Rochester,New York
+B-26023,San Diego,California
+B-26501,Miami,Florida
+B-26677,Peoria,Illinois
+B-26739,Los Angeles,California
+B-26677,Orlando,Florida
+B-25701,Austin,Texas
+B-26523,Chicago,Illinois
+B-25880,New York City,New York
+B-25401,Peoria,Illinois
+B-26898,Cincinnati,Ohio
+B-26035,Austin,Texas
+B-25292,New York City,New York
+B-25573,Los Angeles,California
+B-25463,Chicago,Illinois
+B-25957,Los Angeles,California
+B-26277,Dallas,Texas
+B-26508,Miami,Florida
+B-26723,Houston,Texas
+B-25809,Tampa,Florida
+B-26279,Buffalo,New York
+B-25706,Springfield,Illinois
+B-26723,Dallas,Texas
+B-25526,Cleveland,Ohio
+B-26757,Miami,Florida
+B-25645,Orlando,Florida
+B-25757,Chicago,Illinois
+B-26563,Buffalo,New York
+B-26716,Buffalo,New York
+B-26145,Chicago,Illinois
+B-25986,San Diego,California
+B-26678,Cincinnati,Ohio
+B-25424,San Diego,California
+B-26453,Columbus,Ohio
+B-26453,Rochester,New York
+B-26425,Cleveland,Ohio
+B-25843,Austin,Texas
+B-25486,Columbus,Ohio
+B-26975,San Diego,California
+B-26890,Buffalo,New York
+B-26125,Rochester,New York
+B-26489,Austin,Texas
+B-26489,Cincinnati,Ohio
+B-26489,Dallas,Texas
+B-26043,Chicago,Illinois
+B-26557,Orlando,Florida
+B-25243,Orlando,Florida
+B-26554,Tampa,Florida
+B-26528,San Francisco,California
+B-26656,Rochester,New York
+B-25495,San Diego,California
+B-26656,San Diego,California
+B-26656,Tampa,Florida
+B-25603,Dallas,Texas
+B-25241,Dallas,Texas
+B-25971,Houston,Texas
+B-25241,Tampa,Florida
+B-25044,Springfield,Illinois
+B-25895,Houston,Texas
+B-26159,Chicago,Illinois
+B-26245,Springfield,Illinois
+B-26137,Peoria,Illinois
+B-26137,Austin,Texas
+B-26137,Cincinnati,Ohio
+B-25953,Chicago,Illinois
+B-25545,Springfield,Illinois
+B-26800,Rochester,New York
+B-26528,Cleveland,Ohio
+B-26987,Dallas,Texas
+B-26144,Chicago,Illinois
+B-25406,Chicago,Illinois
+B-26843,Dallas,Texas
+B-25658,Buffalo,New York
+B-25873,New York City,New York
+B-26675,New York City,New York
+B-25658,San Francisco,California
+B-26066,Buffalo,New York
+B-25733,Springfield,Illinois
+B-26993,Orlando,Florida
+B-26017,Columbus,Ohio
+B-26964,Cleveland,Ohio
+B-26964,Los Angeles,California
+B-25744,Buffalo,New York
+B-26955,Houston,Texas
+B-26059,Springfield,Illinois
+B-26806,Tampa,Florida
+B-26299,Cleveland,Ohio
+B-26743,Chicago,Illinois
+B-26794,New York City,New York
+B-26743,Buffalo,New York
+B-26909,Peoria,Illinois
+B-26772,Dallas,Texas
+B-26088,Orlando,Florida
+B-26319,Cincinnati,Ohio
+B-25363,Houston,Texas
+B-26872,Los Angeles,California
+B-25364,San Francisco,California
+B-25364,Rochester,New York
+B-25919,San Diego,California
+B-26864,San Francisco,California
+B-26019,Orlando,Florida
+B-25849,Austin,Texas
+B-25849,Los Angeles,California
+B-25829,Peoria,Illinois
+B-26065,Cleveland,Ohio
+B-25541,Cleveland,Ohio
+B-25889,New York City,New York
+B-26065,Springfield,Illinois
+B-25267,San Diego,California
+B-26033,New York City,New York
+B-25972,Buffalo,New York
+B-25511,Peoria,Illinois
+B-26805,Cincinnati,Ohio
+B-25620,Peoria,Illinois
+B-25010,Houston,Texas
+B-25620,Buffalo,New York
+B-25325,San Francisco,California
+B-26654,San Francisco,California
+B-26195,Rochester,New York
+B-26195,Miami,Florida
+B-25842,Columbus,Ohio
+B-25842,San Francisco,California
+B-25232,Rochester,New York
+B-25851,Cincinnati,Ohio
+B-26456,Cincinnati,Ohio
+B-25427,Miami,Florida
+B-26224,Chicago,Illinois
+B-26224,Houston,Texas
+B-26224,Miami,Florida
+B-26896,Dallas,Texas
+B-26522,San Francisco,California
+B-26896,Houston,Texas
+B-26219,San Diego,California
+B-26119,Dallas,Texas
+B-26988,Rochester,New York
+B-25596,Austin,Texas
+B-26845,Springfield,Illinois
+B-25099,San Diego,California
+B-26153,Houston,Texas
+B-25060,Buffalo,New York
+B-26572,San Diego,California
+B-26572,San Francisco,California
+B-25574,San Francisco,California
+B-25919,Orlando,Florida
+B-26978,Springfield,Illinois
+B-26554,Peoria,Illinois
+B-26554,Miami,Florida
+B-26554,Houston,Texas
+B-26883,Buffalo,New York
+B-25423,Orlando,Florida
+B-25423,Tampa,Florida
+B-26324,Austin,Texas
+B-26945,Austin,Texas
+B-26405,Peoria,Illinois
+B-25746,Houston,Texas
+B-25232,Peoria,Illinois
+B-25232,San Diego,California
+B-25591,Columbus,Ohio
+B-25990,Cincinnati,Ohio
+B-26325,Miami,Florida
+B-25251,Buffalo,New York
+B-25251,Houston,Texas
+B-25464,Los Angeles,California
+B-25962,Peoria,Illinois
+B-25962,Rochester,New York
+B-26980,Peoria,Illinois
+B-25962,Tampa,Florida
+B-26586,Los Angeles,California
+B-26586,Chicago,Illinois
+B-26146,Tampa,Florida
+B-26841,New York City,New York
+B-26284,Springfield,Illinois
+B-26284,Los Angeles,California
+B-26284,Chicago,Illinois
+B-26284,Rochester,New York
+B-26478,Houston,Texas
+B-26679,San Francisco,California
+B-26679,Buffalo,New York
+B-25684,New York City,New York
+B-26679,Cleveland,Ohio
+B-25381,Peoria,Illinois
+B-26397,Los Angeles,California
+B-26397,Miami,Florida
+B-26916,Springfield,Illinois
+B-26916,San Francisco,California
+B-26580,Columbus,Ohio
+B-25679,Tampa,Florida
+B-25925,Austin,Texas
+B-25925,Chicago,Illinois
+B-25602,Orlando,Florida
+B-25602,Houston,Texas
+B-26844,Springfield,Illinois
+B-26251,San Francisco,California
+B-25979,San Diego,California
+B-25437,San Francisco,California
+B-26986,Columbus,Ohio
+B-25222,Dallas,Texas
+B-25222,Tampa,Florida
+B-25222,Springfield,Illinois
+B-26402,Tampa,Florida
+B-26792,Austin,Texas
+B-26792,Springfield,Illinois
+B-25154,New York City,New York
+B-26114,Chicago,Illinois
+B-26485,Buffalo,New York
+B-26191,San Diego,California
+B-25317,San Diego,California
+B-26754,Dallas,Texas
+B-25953,Springfield,Illinois
+B-26516,Miami,Florida
+B-26167,San Diego,California
+B-25673,Buffalo,New York
+B-26120,Cleveland,Ohio
+B-25138,New York City,New York
+B-26120,Chicago,Illinois
+B-26587,New York City,New York
+B-26906,Miami,Florida
+B-26906,Tampa,Florida
+B-25226,Los Angeles,California
+B-25166,Cleveland,Ohio
+B-25166,San Diego,California
+B-25454,Tampa,Florida
+B-25298,San Francisco,California
+B-26215,Dallas,Texas
+B-25777,Springfield,Illinois
+B-26296,Springfield,Illinois
+B-25777,Orlando,Florida
+B-25383,Los Angeles,California
+B-26739,Miami,Florida
+B-25383,Tampa,Florida
+B-26409,Los Angeles,California
+B-25881,Austin,Texas
+B-26409,Columbus,Ohio
+B-26726,Dallas,Texas
+B-26726,Cincinnati,Ohio
+B-26136,Miami,Florida
+B-25991,Dallas,Texas
+B-26098,Houston,Texas
+B-25430,Los Angeles,California
+B-25266,San Diego,California
+B-25283,New York City,New York
+B-25669,Buffalo,New York
+B-25064,Buffalo,New York
+B-25064,Rochester,New York
+B-26842,Orlando,Florida
+B-26268,Austin,Texas
+B-26675,Orlando,Florida
+B-25456,Los Angeles,California
+B-25456,Miami,Florida
+B-25444,Springfield,Illinois
+B-25456,Cleveland,Ohio
+B-26552,Austin,Texas
+B-26552,Tampa,Florida
+B-25065,Cincinnati,Ohio
+B-25203,Springfield,Illinois
+B-25462,Tampa,Florida
+B-25443,Dallas,Texas
+B-26145,Austin,Texas
+B-26069,Columbus,Ohio
+B-26069,Peoria,Illinois
+B-25830,Orlando,Florida
+B-25120,Dallas,Texas
+B-25120,Houston,Texas
+B-25945,Dallas,Texas
+B-25120,New York City,New York
+B-25549,Orlando,Florida
+B-25488,New York City,New York
+B-25819,Cleveland,Ohio
+B-26885,Dallas,Texas
+B-25703,Orlando,Florida
+B-25703,Austin,Texas
+B-25809,Cleveland,Ohio
+B-25477,Rochester,New York
+B-25477,Buffalo,New York
+B-26018,Austin,Texas
+B-25329,San Diego,California
+B-25329,Los Angeles,California
+B-25182,New York City,New York
+B-26420,Houston,Texas
+B-25492,Buffalo,New York
+B-25492,San Francisco,California
+B-25517,Buffalo,New York
+B-25200,Buffalo,New York
+B-26009,Peoria,Illinois
+B-26034,Rochester,New York
+B-26443,Buffalo,New York
+B-25148,Peoria,Illinois
+B-25830,Los Angeles,California
+B-25612,San Diego,California
+B-25762,Austin,Texas
+B-25011,Columbus,Ohio
+B-25011,San Francisco,California
+B-25515,Tampa,Florida
+B-25502,New York City,New York
+B-25369,Dallas,Texas
+B-25369,Rochester,New York
+B-26222,Chicago,Illinois
+B-25316,Austin,Texas
+B-25507,Tampa,Florida
+B-26734,Austin,Texas
+B-25846,Orlando,Florida
+B-25707,Dallas,Texas
+B-25465,Cleveland,Ohio
+B-25465,Miami,Florida
+B-25465,New York City,New York
+B-25465,Orlando,Florida
+B-25465,Rochester,New York
+B-26352,Chicago,Illinois
+B-25931,Columbus,Ohio
+B-26670,Houston,Texas
+B-25944,Dallas,Texas
+B-25331,Rochester,New York
+B-25832,New York City,New York
+B-25501,Cleveland,Ohio
+B-25897,Cincinnati,Ohio
+B-25949,Los Angeles,California
+B-26926,San Diego,California
+B-26258,Chicago,Illinois
+B-25159,Orlando,Florida
+B-26240,Springfield,Illinois
+B-26240,Los Angeles,California
+B-26922,Austin,Texas
+B-26894,Chicago,Illinois
+B-25330,Chicago,Illinois
+B-26288,Dallas,Texas
+B-26288,Rochester,New York
+B-25228,Cleveland,Ohio
+B-25774,San Diego,California
+B-25992,Springfield,Illinois
+B-25228,San Diego,California
+B-26457,New York City,New York
+B-25024,Cincinnati,Ohio
+B-25790,Miami,Florida
+B-25868,Columbus,Ohio
+B-25868,Dallas,Texas
+B-25381,Springfield,Illinois
+B-26526,Buffalo,New York
+B-26526,Rochester,New York
+B-25819,San Francisco,California
+B-25698,Austin,Texas
+B-25698,Peoria,Illinois
+B-26820,Cleveland,Ohio
+B-25396,Peoria,Illinois
+B-25529,Orlando,Florida
+B-25978,New York City,New York
+B-26537,San Diego,California
+B-25881,San Francisco,California
+B-25237,Cincinnati,Ohio
+B-26603,Austin,Texas
+B-25237,Houston,Texas
+B-26122,Los Angeles,California
+B-26122,Springfield,Illinois
+B-26599,New York City,New York
+B-25709,Los Angeles,California
+B-25801,San Francisco,California
+B-25006,San Francisco,California
+B-26106,Peoria,Illinois
+B-26565,Columbus,Ohio
+B-25789,Los Angeles,California
+B-26292,Springfield,Illinois
+B-25813,Tampa,Florida
+B-26863,San Francisco,California
+B-25759,Chicago,Illinois
+B-25976,Springfield,Illinois
+B-26878,Cleveland,Ohio
+B-26878,Chicago,Illinois
+B-25170,Tampa,Florida
+B-26599,San Francisco,California
+B-25855,Miami,Florida
+B-25705,Los Angeles,California
+B-26366,Cleveland,Ohio
+B-26366,Columbus,Ohio
+B-25955,Buffalo,New York
+B-25955,Orlando,Florida
+B-26383,Buffalo,New York
+B-26383,Cleveland,Ohio
+B-26999,Miami,Florida
+B-26712,Austin,Texas
+B-25996,Columbus,Ohio
+B-26734,San Francisco,California
+B-25996,Austin,Texas
+B-26924,Austin,Texas
+B-25541,Los Angeles,California
+B-25541,Rochester,New York
+B-25196,Dallas,Texas
+B-25071,Dallas,Texas
+B-26159,Orlando,Florida
+B-25888,San Diego,California
+B-25574,Houston,Texas
+B-26961,San Diego,California
+B-26938,Los Angeles,California
+B-26938,Peoria,Illinois
+B-25965,Buffalo,New York
+B-26379,New York City,New York
+B-26623,Springfield,Illinois
+B-25566,Rochester,New York
+B-25566,New York City,New York
+B-26740,Orlando,Florida
+B-26740,New York City,New York
+B-25024,Columbus,Ohio
+B-26367,Columbus,Ohio
+B-26353,San Francisco,California
+B-26038,Columbus,Ohio
+B-25590,Rochester,New York
+B-25580,Tampa,Florida
+B-26505,Cincinnati,Ohio
+B-26790,San Francisco,California
+B-25163,Los Angeles,California
+B-26095,Houston,Texas
+B-25768,Springfield,Illinois
+B-25328,Austin,Texas
+B-26573,Columbus,Ohio
+B-25101,Springfield,Illinois
+B-25792,Buffalo,New York
+B-25646,Chicago,Illinois
+B-25043,Miami,Florida
+B-26598,Peoria,Illinois
+B-26279,Columbus,Ohio
+B-26598,Buffalo,New York
+B-26598,Columbus,Ohio
+B-26643,Miami,Florida
+B-25992,San Diego,California
+B-25532,Austin,Texas
+B-25564,Los Angeles,California
+B-25483,Peoria,Illinois
+B-25564,Houston,Texas
+B-26543,San Francisco,California
+B-25976,New York City,New York
+B-25929,Springfield,Illinois
+B-25497,Buffalo,New York
+B-25889,Cleveland,Ohio
+B-26735,Austin,Texas
+B-25036,New York City,New York
+B-25441,Buffalo,New York
+B-25441,Rochester,New York
+B-25823,New York City,New York
+B-25363,San Diego,California
+B-26445,Chicago,Illinois
+B-26724,Springfield,Illinois
+B-26904,Buffalo,New York
+B-26904,Miami,Florida
+B-26904,Austin,Texas
+B-25435,San Francisco,California
+B-26279,Springfield,Illinois
+B-26279,Chicago,Illinois
+B-26279,Los Angeles,California
+B-25715,Cincinnati,Ohio
+B-25715,Chicago,Illinois
+B-26961,Miami,Florida
+B-25902,Cleveland,Ohio
+B-26321,Tampa,Florida
+B-25605,New York City,New York
+B-25810,Miami,Florida
+B-25935,Columbus,Ohio
+B-26245,Cleveland,Ohio
+B-26245,Orlando,Florida
+B-25346,Cleveland,Ohio
+B-25594,Peoria,Illinois
+B-25594,Tampa,Florida
+B-25471,Tampa,Florida
+B-25398,Tampa,Florida
+B-25398,San Francisco,California
+B-25999,Cincinnati,Ohio
+B-25999,San Diego,California
+B-25159,Peoria,Illinois
+B-25159,Buffalo,New York
+B-26225,Tampa,Florida
+B-25662,Orlando,Florida
+B-25662,Miami,Florida
+B-25030,San Diego,California
+B-25504,Los Angeles,California
+B-26912,Cincinnati,Ohio
+B-26912,Peoria,Illinois
+B-26912,Chicago,Illinois
+B-25193,New York City,New York
+B-25106,Dallas,Texas
+B-25106,Springfield,Illinois
+B-26835,Miami,Florida
+B-25836,Peoria,Illinois
+B-25836,Los Angeles,California
+B-26661,Miami,Florida
+B-26317,Rochester,New York
+B-26839,Houston,Texas
+B-25735,Peoria,Illinois
+B-25387,Cincinnati,Ohio
+B-25192,Cleveland,Ohio
+B-26844,Cleveland,Ohio
+B-26844,Orlando,Florida
+B-25236,Houston,Texas
+B-25940,Columbus,Ohio
+B-25940,San Diego,California
+B-26765,Springfield,Illinois
+B-26817,Cincinnati,Ohio
+B-26522,Los Angeles,California
+B-25681,Columbus,Ohio
+B-25944,New York City,New York
+B-26980,Rochester,New York
+B-25780,New York City,New York
+B-25964,Rochester,New York
+B-26767,San Francisco,California
+B-26767,Dallas,Texas
+B-26029,Tampa,Florida
+B-25873,Buffalo,New York
+B-25873,Dallas,Texas
+B-25444,Columbus,Ohio
+B-26796,Cincinnati,Ohio
+B-26083,Los Angeles,California
+B-25298,Orlando,Florida
+B-25298,Miami,Florida
+B-26041,New York City,New York
+B-26734,Buffalo,New York
+B-26041,Peoria,Illinois
+B-26750,Rochester,New York
+B-26138,Dallas,Texas
+B-26789,Cincinnati,Ohio
+B-26929,Buffalo,New York
+B-25359,Peoria,Illinois
+B-25738,Cleveland,Ohio
+B-25738,Austin,Texas
+B-26112,Los Angeles,California
+B-26112,San Diego,California
+B-25630,Dallas,Texas
+B-25630,Columbus,Ohio
+B-25198,Austin,Texas
+B-25189,San Francisco,California
+B-25548,Cincinnati,Ohio
+B-26393,Miami,Florida
+B-25965,Houston,Texas
+B-26545,Peoria,Illinois
+B-26393,San Diego,California
+B-26628,Houston,Texas
+B-26628,Cincinnati,Ohio
+B-25684,Springfield,Illinois
+B-25839,Tampa,Florida
+B-25898,San Diego,California
+B-26426,Chicago,Illinois
+B-26309,Dallas,Texas
+B-26309,San Diego,California
+B-26257,Buffalo,New York
+B-26257,Cincinnati,Ohio
+B-25603,Springfield,Illinois
+B-25010,Cleveland,Ohio
+B-25889,Chicago,Illinois
+B-26168,San Diego,California
+B-25436,Orlando,Florida
+B-25794,Tampa,Florida
+B-26495,Chicago,Illinois
+B-25815,Austin,Texas
+B-25022,New York City,New York
+B-25022,Buffalo,New York
+B-26928,Dallas,Texas
+B-25697,San Francisco,California
+B-25234,Dallas,Texas
+B-25234,Peoria,Illinois
+B-25665,Cleveland,Ohio
+B-25665,Peoria,Illinois
+B-25028,Orlando,Florida
+B-26659,Chicago,Illinois
+B-25966,San Francisco,California
+B-25966,San Diego,California
+B-25350,Austin,Texas
+B-26370,New York City,New York
+B-26298,Rochester,New York
+B-26298,Austin,Texas
+B-26298,Buffalo,New York
+B-25068,Chicago,Illinois

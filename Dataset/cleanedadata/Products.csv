@@ -1,801 +1,801 @@
-Category,Sub-Category,Amount,category_Id
-Electronics,Electronic Games,9726,1
-Electronics,Printers,4975,2
-Office Supplies,Pens,1525,3
-Electronics,Laptops,883,4
-Furniture,Tables,8127,5
-Furniture,Chairs,2516,6
-Office Supplies,Pens,2975,7
-Office Supplies,Markers,6851,8
-Furniture,Sofas,7626,9
-Furniture,Tables,1023,10
-Office Supplies,Pens,7600,11
-Office Supplies,Paper,7501,12
-Office Supplies,Paper,725,13
-Furniture,Tables,7201,14
-Office Supplies,Paper,1629,15
-Office Supplies,Binders,8971,16
-Office Supplies,Binders,2939,17
-Electronics,Phones,9380,18
-Office Supplies,Binders,8558,19
-Office Supplies,Paper,4080,20
-Electronics,Electronic Games,4206,21
-Office Supplies,Binders,5219,22
-Office Supplies,Pens,3686,23
-Office Supplies,Paper,6045,24
-Office Supplies,Pens,9337,25
-Electronics,Phones,4051,26
-Furniture,Bookcases,5011,27
-Furniture,Sofas,3958,28
-Furniture,Tables,3132,29
-Office Supplies,Markers,7784,30
-Office Supplies,Pens,5591,31
-Electronics,Electronic Games,5122,32
-Office Supplies,Binders,8293,33
-Electronics,Phones,2863,34
-Furniture,Tables,3090,35
-Electronics,Printers,9683,36
-Furniture,Tables,2463,37
-Furniture,Sofas,7811,38
-Furniture,Tables,6139,39
-Furniture,Chairs,8636,40
-Furniture,Sofas,4439,41
-Furniture,Tables,1016,42
-Furniture,Tables,5768,43
-Furniture,Tables,1217,44
-Office Supplies,Paper,953,45
-Furniture,Sofas,7355,46
-Electronics,Phones,1843,47
-Office Supplies,Pens,1603,48
-Office Supplies,Pens,2025,49
-Office Supplies,Binders,6800,50
-Furniture,Bookcases,1126,51
-Furniture,Tables,7533,52
-Office Supplies,Binders,4734,53
-Electronics,Electronic Games,4074,54
-Furniture,Sofas,2334,55
-Electronics,Phones,2750,56
-Office Supplies,Pens,8639,57
-Office Supplies,Markers,3808,58
-Office Supplies,Pens,2588,59
-Electronics,Electronic Games,1591,60
-Furniture,Chairs,1757,61
-Furniture,Bookcases,6940,62
-Electronics,Printers,5105,63
-Furniture,Tables,5578,64
-Furniture,Chairs,5224,65
-Office Supplies,Markers,5002,66
-Office Supplies,Markers,7380,67
-Furniture,Chairs,7595,68
-Furniture,Sofas,1954,69
-Electronics,Printers,523,70
-Electronics,Laptops,5704,71
-Furniture,Tables,8797,72
-Electronics,Laptops,9236,73
-Furniture,Sofas,9109,74
-Electronics,Phones,4358,75
-Electronics,Phones,6459,76
-Furniture,Bookcases,2478,77
-Office Supplies,Pens,9992,78
-Office Supplies,Binders,9619,79
-Electronics,Printers,9538,80
-Furniture,Chairs,9035,81
-Office Supplies,Paper,2684,82
-Furniture,Sofas,822,83
-Furniture,Chairs,9730,84
-Electronics,Electronic Games,2483,85
-Office Supplies,Binders,1297,86
-Electronics,Phones,7909,87
-Furniture,Tables,9768,88
-Furniture,Sofas,4968,89
-Electronics,Laptops,1731,90
-Office Supplies,Binders,3433,91
-Office Supplies,Binders,3887,92
-Office Supplies,Markers,1801,93
-Furniture,Tables,5301,94
-Office Supplies,Paper,1166,95
-Office Supplies,Paper,3196,96
-Furniture,Chairs,3428,97
-Office Supplies,Binders,7223,98
-Office Supplies,Pens,3731,99
-Office Supplies,Pens,8903,100
-Electronics,Phones,6009,101
-Furniture,Tables,2858,102
-Furniture,Sofas,8175,103
-Furniture,Sofas,5846,104
-Electronics,Laptops,706,105
-Furniture,Tables,9835,106
-Office Supplies,Markers,9691,107
-Furniture,Bookcases,7826,108
-Furniture,Sofas,770,109
-Furniture,Bookcases,9895,110
-Office Supplies,Paper,6517,111
-Furniture,Tables,1166,112
-Furniture,Chairs,9820,113
-Office Supplies,Binders,8563,114
-Electronics,Printers,4441,115
-Office Supplies,Paper,7340,116
-Electronics,Phones,5442,117
-Furniture,Tables,1895,118
-Office Supplies,Binders,5323,119
-Office Supplies,Markers,8850,120
-Office Supplies,Paper,8667,121
-Furniture,Tables,6903,122
-Office Supplies,Pens,8793,123
-Office Supplies,Paper,9883,124
-Office Supplies,Paper,5210,125
-Electronics,Printers,3574,126
-Furniture,Sofas,576,127
-Electronics,Printers,1860,128
-Office Supplies,Pens,782,129
-Electronics,Laptops,4371,130
-Electronics,Phones,8346,131
-Furniture,Tables,6218,132
-Electronics,Printers,5167,133
-Furniture,Sofas,2799,134
-Office Supplies,Markers,3234,135
-Furniture,Tables,4920,136
-Furniture,Bookcases,9078,137
-Furniture,Bookcases,8586,138
-Furniture,Sofas,5047,139
-Furniture,Sofas,3657,140
-Electronics,Electronic Games,6471,141
-Office Supplies,Binders,949,142
-Office Supplies,Binders,6823,143
-Furniture,Tables,4364,144
-Electronics,Phones,6671,145
-Office Supplies,Paper,7472,146
-Electronics,Printers,9548,147
-Electronics,Printers,7759,148
-Office Supplies,Markers,7521,149
-Office Supplies,Pens,9704,150
-Electronics,Printers,4948,151
-Electronics,Electronic Games,6435,152
-Office Supplies,Markers,9965,153
-Furniture,Sofas,1523,154
-Electronics,Electronic Games,9073,155
-Electronics,Laptops,6447,156
-Electronics,Electronic Games,8947,157
-Office Supplies,Pens,914,158
-Office Supplies,Paper,1548,159
-Furniture,Tables,2759,160
-Electronics,Laptops,1341,161
-Electronics,Electronic Games,9851,162
-Furniture,Tables,9989,163
-Furniture,Tables,7421,164
-Office Supplies,Paper,3099,165
-Electronics,Phones,2521,166
-Electronics,Electronic Games,6962,167
-Furniture,Bookcases,1085,168
-Furniture,Chairs,738,169
-Electronics,Electronic Games,1366,170
-Office Supplies,Markers,1518,171
-Electronics,Phones,2962,172
-Electronics,Printers,7131,173
-Office Supplies,Markers,4200,174
-Office Supplies,Markers,5934,175
-Electronics,Printers,2701,176
-Office Supplies,Paper,7273,177
-Office Supplies,Markers,2465,178
-Office Supplies,Markers,3479,179
-Electronics,Printers,5457,180
-Office Supplies,Markers,4957,181
-Office Supplies,Pens,4404,182
-Furniture,Sofas,8776,183
-Electronics,Phones,9536,184
-Furniture,Sofas,2225,185
-Furniture,Bookcases,9574,186
-Electronics,Electronic Games,4382,187
-Electronics,Laptops,8200,188
-Furniture,Sofas,9316,189
-Electronics,Electronic Games,6379,190
-Office Supplies,Markers,3348,191
-Office Supplies,Pens,8856,192
-Furniture,Sofas,1760,193
-Electronics,Printers,6351,194
-Office Supplies,Paper,869,195
-Furniture,Bookcases,1486,196
-Office Supplies,Binders,2999,197
-Office Supplies,Paper,5142,198
-Electronics,Laptops,1239,199
-Electronics,Electronic Games,1262,200
-Furniture,Bookcases,1033,201
-Electronics,Printers,1518,202
-Office Supplies,Paper,8581,203
-Office Supplies,Pens,1167,204
-Electronics,Laptops,2841,205
-Furniture,Tables,5680,206
-Office Supplies,Pens,8204,207
-Electronics,Phones,2850,208
-Office Supplies,Pens,907,209
-Office Supplies,Pens,2174,210
-Electronics,Electronic Games,8541,211
-Furniture,Bookcases,1931,212
-Electronics,Electronic Games,1281,213
-Electronics,Laptops,2404,214
-Furniture,Sofas,2119,215
-Office Supplies,Pens,3137,216
-Furniture,Tables,2323,217
-Furniture,Bookcases,1368,218
-Electronics,Laptops,9204,219
-Office Supplies,Paper,9894,220
-Furniture,Sofas,5322,221
-Furniture,Chairs,2666,222
-Furniture,Sofas,8383,223
-Office Supplies,Paper,7560,224
-Furniture,Sofas,1314,225
-Furniture,Tables,4390,226
-Office Supplies,Binders,1150,227
-Office Supplies,Pens,1574,228
-Office Supplies,Binders,5635,229
-Furniture,Sofas,6515,230
-Electronics,Laptops,1231,231
-Office Supplies,Binders,6891,232
-Electronics,Laptops,7524,233
-Electronics,Printers,6864,234
-Furniture,Chairs,4215,235
-Furniture,Bookcases,622,236
-Office Supplies,Pens,1755,237
-Electronics,Electronic Games,8020,238
-Electronics,Laptops,7333,239
-Electronics,Electronic Games,7690,240
-Furniture,Sofas,912,241
-Electronics,Laptops,2791,242
-Furniture,Sofas,6223,243
-Furniture,Chairs,8943,244
-Electronics,Phones,3297,245
-Office Supplies,Paper,8769,246
-Electronics,Printers,9057,247
-Furniture,Tables,6864,248
-Electronics,Laptops,9200,249
-Electronics,Laptops,6113,250
-Furniture,Tables,7733,251
-Furniture,Tables,8524,252
-Furniture,Bookcases,6187,253
-Office Supplies,Pens,736,254
-Office Supplies,Pens,9905,255
-Office Supplies,Paper,2493,256
-Office Supplies,Pens,9849,257
-Electronics,Printers,3423,258
-Furniture,Chairs,3900,259
-Electronics,Electronic Games,8568,260
-Office Supplies,Pens,3283,261
-Electronics,Electronic Games,7643,262
-Furniture,Sofas,3461,263
-Electronics,Electronic Games,5714,264
-Office Supplies,Binders,3853,265
-Office Supplies,Pens,6016,266
-Office Supplies,Markers,1290,267
-Electronics,Printers,4569,268
-Furniture,Bookcases,3083,269
-Office Supplies,Pens,3522,270
-Office Supplies,Binders,7301,271
-Electronics,Laptops,4462,272
-Electronics,Phones,6212,273
-Furniture,Bookcases,4027,274
-Electronics,Laptops,1676,275
-Furniture,Bookcases,3927,276
-Electronics,Phones,2776,277
-Furniture,Sofas,7684,278
-Electronics,Phones,6008,279
-Furniture,Bookcases,7344,280
-Office Supplies,Pens,6932,281
-Electronics,Electronic Games,7748,282
-Office Supplies,Markers,6381,283
-Electronics,Phones,992,284
-Electronics,Laptops,8649,285
-Electronics,Laptops,4099,286
-Electronics,Electronic Games,2539,287
-Office Supplies,Paper,9845,288
-Office Supplies,Paper,2901,289
-Office Supplies,Pens,6934,290
-Furniture,Bookcases,9640,291
-Furniture,Chairs,7930,292
-Office Supplies,Binders,9894,293
-Furniture,Tables,4534,294
-Electronics,Phones,4911,295
-Furniture,Bookcases,531,296
-Electronics,Electronic Games,9707,297
-Office Supplies,Paper,8521,298
-Office Supplies,Binders,8438,299
-Electronics,Electronic Games,1689,300
-Office Supplies,Paper,3936,301
-Electronics,Phones,7664,302
-Electronics,Laptops,721,303
-Electronics,Laptops,8364,304
-Furniture,Bookcases,5234,305
-Electronics,Phones,3944,306
-Office Supplies,Pens,6711,307
-Furniture,Tables,5031,308
-Office Supplies,Binders,6295,309
-Office Supplies,Paper,9654,310
-Office Supplies,Binders,3112,311
-Electronics,Phones,7838,312
-Electronics,Phones,9300,313
-Office Supplies,Paper,1733,314
-Office Supplies,Binders,874,315
-Office Supplies,Pens,1248,316
-Office Supplies,Markers,3669,317
-Office Supplies,Paper,514,318
-Electronics,Phones,3273,319
-Furniture,Chairs,5035,320
-Electronics,Printers,7702,321
-Electronics,Printers,9884,322
-Electronics,Laptops,5564,323
-Electronics,Electronic Games,3953,324
-Electronics,Printers,6488,325
-Electronics,Electronic Games,7856,326
-Office Supplies,Pens,1165,327
-Office Supplies,Markers,9386,328
-Office Supplies,Pens,3956,329
-Furniture,Bookcases,6449,330
-Office Supplies,Markers,6255,331
-Electronics,Electronic Games,2109,332
-Electronics,Phones,6707,333
-Office Supplies,Pens,7633,334
-Office Supplies,Pens,975,335
-Furniture,Tables,4492,336
-Furniture,Chairs,7957,337
-Furniture,Tables,4906,338
-Office Supplies,Pens,1379,339
-Electronics,Laptops,4244,340
-Furniture,Bookcases,5911,341
-Office Supplies,Markers,1818,342
-Office Supplies,Paper,2140,343
-Electronics,Laptops,2670,344
-Electronics,Laptops,1108,345
-Office Supplies,Binders,9776,346
-Furniture,Bookcases,535,347
-Office Supplies,Paper,7564,348
-Electronics,Electronic Games,3409,349
-Office Supplies,Pens,9751,350
-Electronics,Printers,6385,351
-Electronics,Electronic Games,6355,352
-Electronics,Printers,7377,353
-Office Supplies,Markers,2054,354
-Furniture,Chairs,7497,355
-Electronics,Electronic Games,2565,356
-Office Supplies,Pens,5024,357
-Office Supplies,Binders,8243,358
-Office Supplies,Paper,7792,359
-Furniture,Chairs,2346,360
-Furniture,Sofas,7346,361
-Electronics,Electronic Games,9770,362
-Electronics,Laptops,7179,363
-Electronics,Phones,5449,364
-Furniture,Chairs,2895,365
-Furniture,Chairs,697,366
-Furniture,Chairs,6145,367
-Electronics,Printers,2504,368
-Electronics,Phones,3124,369
-Electronics,Electronic Games,6934,370
-Office Supplies,Markers,4202,371
-Electronics,Printers,2239,372
-Electronics,Phones,2450,373
-Furniture,Chairs,9827,374
-Furniture,Sofas,8077,375
-Electronics,Phones,5152,376
-Office Supplies,Markers,2542,377
-Office Supplies,Markers,8102,378
-Furniture,Tables,3234,379
-Furniture,Tables,6200,380
-Electronics,Laptops,4470,381
-Office Supplies,Pens,916,382
-Furniture,Sofas,1165,383
-Furniture,Chairs,7846,384
-Office Supplies,Pens,3022,385
-Electronics,Electronic Games,5266,386
-Office Supplies,Pens,4853,387
-Office Supplies,Pens,9832,388
-Office Supplies,Pens,796,389
-Furniture,Chairs,883,390
-Furniture,Bookcases,4539,391
-Office Supplies,Binders,9659,392
-Electronics,Printers,9562,393
-Electronics,Laptops,4688,394
-Electronics,Phones,7900,395
-Furniture,Bookcases,6967,396
-Office Supplies,Paper,1091,397
-Office Supplies,Binders,6027,398
-Furniture,Tables,4852,399
-Furniture,Sofas,4314,400
-Office Supplies,Pens,3288,401
-Office Supplies,Binders,3977,402
-Electronics,Printers,6252,403
-Office Supplies,Pens,9084,404
-Electronics,Phones,8994,405
-Office Supplies,Markers,1089,406
-Office Supplies,Binders,6690,407
-Furniture,Bookcases,4985,408
-Electronics,Electronic Games,8590,409
-Furniture,Tables,6973,410
-Electronics,Printers,4591,411
-Office Supplies,Pens,9612,412
-Furniture,Chairs,5343,413
-Office Supplies,Markers,6956,414
-Furniture,Tables,5306,415
-Furniture,Sofas,8982,416
-Office Supplies,Paper,4826,417
-Office Supplies,Pens,972,418
-Office Supplies,Markers,3665,419
-Office Supplies,Pens,9808,420
-Furniture,Chairs,1133,421
-Furniture,Bookcases,6248,422
-Electronics,Electronic Games,5666,423
-Office Supplies,Markers,4171,424
-Electronics,Printers,6236,425
-Furniture,Chairs,5410,426
-Furniture,Sofas,3024,427
-Office Supplies,Markers,7434,428
-Electronics,Electronic Games,7213,429
-Furniture,Tables,3176,430
-Office Supplies,Binders,9144,431
-Furniture,Tables,4146,432
-Furniture,Tables,3793,433
-Furniture,Sofas,7169,434
-Furniture,Chairs,4046,435
-Electronics,Phones,4164,436
-Furniture,Tables,5389,437
-Furniture,Sofas,5448,438
-Furniture,Sofas,4115,439
-Furniture,Tables,4761,440
-Office Supplies,Binders,5899,441
-Furniture,Chairs,6109,442
-Electronics,Electronic Games,4628,443
-Office Supplies,Pens,4369,444
-Furniture,Sofas,5632,445
-Office Supplies,Paper,7519,446
-Electronics,Electronic Games,1564,447
-Electronics,Electronic Games,2804,448
-Furniture,Chairs,2321,449
-Electronics,Laptops,5730,450
-Furniture,Sofas,7441,451
-Office Supplies,Binders,1732,452
-Office Supplies,Paper,8788,453
-Office Supplies,Markers,838,454
-Furniture,Tables,3577,455
-Electronics,Phones,7122,456
-Office Supplies,Markers,7327,457
-Office Supplies,Markers,4932,458
-Electronics,Printers,4609,459
-Office Supplies,Paper,2328,460
-Electronics,Printers,4734,461
-Furniture,Sofas,1388,462
-Electronics,Laptops,8555,463
-Furniture,Tables,9024,464
-Electronics,Laptops,2468,465
-Electronics,Electronic Games,9438,466
-Electronics,Phones,2685,467
-Furniture,Chairs,9916,468
-Electronics,Electronic Games,6184,469
-Office Supplies,Markers,4548,470
-Office Supplies,Markers,7195,471
-Furniture,Bookcases,3098,472
-Furniture,Tables,5412,473
-Furniture,Chairs,1397,474
-Furniture,Chairs,9279,475
-Office Supplies,Paper,2596,476
-Furniture,Bookcases,6732,477
-Office Supplies,Pens,4495,478
-Office Supplies,Paper,9653,479
-Furniture,Tables,8945,480
-Furniture,Bookcases,4007,481
-Furniture,Bookcases,810,482
-Furniture,Bookcases,9789,483
-Electronics,Electronic Games,9229,484
-Office Supplies,Markers,8141,485
-Furniture,Sofas,1067,486
-Office Supplies,Binders,3839,487
-Electronics,Electronic Games,2858,488
-Furniture,Bookcases,2137,489
-Furniture,Chairs,2831,490
-Furniture,Sofas,3913,491
-Office Supplies,Paper,4468,492
-Electronics,Laptops,1579,493
-Furniture,Chairs,3760,494
-Office Supplies,Pens,8706,495
-Electronics,Electronic Games,4708,496
-Furniture,Chairs,8089,497
-Electronics,Printers,5462,498
-Electronics,Electronic Games,6392,499
-Electronics,Electronic Games,8706,500
-Office Supplies,Pens,2349,501
-Furniture,Chairs,8220,502
-Furniture,Chairs,2379,503
-Office Supplies,Markers,7377,504
-Furniture,Tables,717,505
-Furniture,Sofas,508,506
-Electronics,Printers,9382,507
-Furniture,Tables,4936,508
-Furniture,Sofas,2663,509
-Electronics,Printers,5151,510
-Office Supplies,Pens,2514,511
-Electronics,Laptops,6129,512
-Furniture,Bookcases,4395,513
-Furniture,Chairs,5393,514
-Electronics,Phones,2280,515
-Office Supplies,Paper,6596,516
-Office Supplies,Paper,4510,517
-Electronics,Phones,6077,518
-Electronics,Printers,5379,519
-Office Supplies,Markers,4629,520
-Electronics,Laptops,2710,521
-Office Supplies,Binders,3224,522
-Office Supplies,Markers,8042,523
-Office Supplies,Binders,3957,524
-Office Supplies,Markers,8769,525
-Office Supplies,Pens,2957,526
-Office Supplies,Paper,5344,527
-Electronics,Laptops,6061,528
-Furniture,Tables,5376,529
-Electronics,Printers,2792,530
-Office Supplies,Binders,2944,531
-Office Supplies,Markers,4220,532
-Office Supplies,Binders,8526,533
-Furniture,Bookcases,8218,534
-Electronics,Phones,599,535
-Furniture,Bookcases,2727,536
-Office Supplies,Pens,2589,537
-Electronics,Electronic Games,3776,538
-Furniture,Bookcases,5402,539
-Office Supplies,Pens,5165,540
-Furniture,Bookcases,4863,541
-Office Supplies,Pens,1626,542
-Furniture,Tables,8851,543
-Furniture,Tables,9680,544
-Office Supplies,Pens,8468,545
-Furniture,Chairs,4441,546
-Furniture,Sofas,6622,547
-Furniture,Tables,3260,548
-Furniture,Tables,8709,549
-Office Supplies,Binders,5250,550
-Office Supplies,Paper,4116,551
-Office Supplies,Paper,1109,552
-Office Supplies,Pens,3573,553
-Electronics,Phones,8055,554
-Electronics,Laptops,6829,555
-Office Supplies,Paper,6390,556
-Office Supplies,Pens,5831,557
-Furniture,Sofas,7952,558
-Furniture,Bookcases,3659,559
-Office Supplies,Pens,4183,560
-Electronics,Phones,7478,561
-Electronics,Phones,702,562
-Furniture,Chairs,4037,563
-Furniture,Chairs,5014,564
-Electronics,Laptops,9879,565
-Electronics,Phones,8762,566
-Office Supplies,Pens,8490,567
-Furniture,Sofas,6951,568
-Electronics,Phones,1078,569
-Office Supplies,Binders,8560,570
-Electronics,Electronic Games,1031,571
-Office Supplies,Markers,6402,572
-Electronics,Printers,5916,573
-Furniture,Chairs,4015,574
-Electronics,Electronic Games,9335,575
-Office Supplies,Binders,4706,576
-Office Supplies,Markers,6584,577
-Furniture,Sofas,6389,578
-Electronics,Printers,9869,579
-Office Supplies,Markers,655,580
-Electronics,Phones,798,581
-Electronics,Printers,7967,582
-Furniture,Tables,3756,583
-Office Supplies,Markers,5196,584
-Furniture,Bookcases,6586,585
-Office Supplies,Markers,6673,586
-Furniture,Tables,714,587
-Office Supplies,Pens,1083,588
-Furniture,Bookcases,2401,589
-Electronics,Phones,1045,590
-Office Supplies,Markers,7806,591
-Furniture,Sofas,5263,592
-Office Supplies,Pens,6147,593
-Electronics,Phones,7484,594
-Furniture,Sofas,7700,595
-Office Supplies,Markers,8537,596
-Furniture,Chairs,8858,597
-Electronics,Printers,5313,598
-Furniture,Sofas,3281,599
-Office Supplies,Pens,8681,600
-Furniture,Sofas,6195,601
-Furniture,Chairs,3877,602
-Electronics,Printers,9369,603
-Electronics,Printers,8680,604
-Electronics,Laptops,3067,605
-Office Supplies,Markers,9002,606
-Office Supplies,Pens,7105,607
-Furniture,Chairs,5317,608
-Furniture,Tables,6304,609
-Office Supplies,Paper,9565,610
-Office Supplies,Paper,8245,611
-Electronics,Laptops,1592,612
-Electronics,Phones,8400,613
-Office Supplies,Paper,4963,614
-Electronics,Printers,2472,615
-Furniture,Chairs,9132,616
-Office Supplies,Binders,8305,617
-Electronics,Electronic Games,1010,618
-Electronics,Phones,4544,619
-Electronics,Phones,5900,620
-Office Supplies,Markers,8861,621
-Electronics,Phones,8158,622
-Office Supplies,Pens,3411,623
-Office Supplies,Markers,9406,624
-Electronics,Printers,1156,625
-Furniture,Bookcases,5354,626
-Electronics,Electronic Games,8780,627
-Furniture,Sofas,6783,628
-Office Supplies,Pens,1778,629
-Electronics,Printers,9399,630
-Furniture,Sofas,7957,631
-Furniture,Chairs,1638,632
-Furniture,Tables,1786,633
-Office Supplies,Paper,4751,634
-Office Supplies,Paper,8979,635
-Electronics,Phones,2727,636
-Electronics,Printers,1093,637
-Office Supplies,Paper,2636,638
-Electronics,Electronic Games,7344,639
-Office Supplies,Paper,7306,640
-Electronics,Printers,5832,641
-Furniture,Tables,8572,642
-Electronics,Printers,8059,643
-Furniture,Sofas,3661,644
-Office Supplies,Paper,2451,645
-Furniture,Tables,7067,646
-Electronics,Electronic Games,4307,647
-Furniture,Chairs,5694,648
-Office Supplies,Binders,962,649
-Furniture,Bookcases,2995,650
-Office Supplies,Markers,2047,651
-Electronics,Laptops,2078,652
-Electronics,Printers,2737,653
-Office Supplies,Paper,8194,654
-Furniture,Sofas,9914,655
-Office Supplies,Pens,5470,656
-Furniture,Bookcases,1496,657
-Office Supplies,Paper,3228,658
-Electronics,Laptops,3918,659
-Furniture,Sofas,9921,660
-Furniture,Chairs,9694,661
-Office Supplies,Paper,5028,662
-Office Supplies,Paper,594,663
-Furniture,Tables,5954,664
-Furniture,Bookcases,3518,665
-Electronics,Laptops,4157,666
-Office Supplies,Markers,3747,667
-Office Supplies,Binders,3194,668
-Office Supplies,Binders,8548,669
-Furniture,Tables,6089,670
-Furniture,Tables,2586,671
-Office Supplies,Paper,3757,672
-Furniture,Sofas,5193,673
-Electronics,Electronic Games,7493,674
-Office Supplies,Markers,2062,675
-Electronics,Phones,7163,676
-Electronics,Phones,4026,677
-Furniture,Chairs,1894,678
-Electronics,Electronic Games,7144,679
-Electronics,Laptops,3482,680
-Office Supplies,Paper,4172,681
-Furniture,Sofas,6265,682
-Electronics,Electronic Games,2931,683
-Furniture,Chairs,1146,684
-Electronics,Printers,9215,685
-Furniture,Chairs,7895,686
-Office Supplies,Pens,2740,687
-Office Supplies,Markers,5338,688
-Office Supplies,Pens,3095,689
-Electronics,Printers,6017,690
-Office Supplies,Pens,4904,691
-Office Supplies,Binders,3080,692
-Electronics,Phones,1992,693
-Furniture,Sofas,5346,694
-Electronics,Printers,8422,695
-Furniture,Bookcases,6105,696
-Office Supplies,Pens,670,697
-Electronics,Laptops,4057,698
-Office Supplies,Pens,8178,699
-Furniture,Tables,8752,700
-Electronics,Printers,8974,701
-Electronics,Phones,9090,702
-Electronics,Electronic Games,851,703
-Electronics,Phones,5427,704
-Furniture,Bookcases,2695,705
-Office Supplies,Pens,2386,706
-Office Supplies,Pens,2284,707
-Electronics,Phones,6034,708
-Furniture,Bookcases,8956,709
-Office Supplies,Markers,7122,710
-Office Supplies,Markers,9775,711
-Furniture,Bookcases,3309,712
-Electronics,Electronic Games,4163,713
-Furniture,Sofas,5518,714
-Electronics,Phones,7566,715
-Electronics,Printers,762,716
-Electronics,Laptops,3316,717
-Furniture,Bookcases,5994,718
-Electronics,Laptops,3854,719
-Office Supplies,Markers,7019,720
-Electronics,Laptops,5954,721
-Furniture,Bookcases,9752,722
-Electronics,Electronic Games,5335,723
-Electronics,Electronic Games,1454,724
-Furniture,Bookcases,6724,725
-Office Supplies,Binders,9874,726
-Electronics,Phones,4918,727
-Office Supplies,Paper,3189,728
-Electronics,Electronic Games,2684,729
-Office Supplies,Pens,7626,730
-Electronics,Printers,6669,731
-Office Supplies,Markers,6123,732
-Office Supplies,Paper,3265,733
-Office Supplies,Markers,8104,734
-Furniture,Tables,847,735
-Furniture,Bookcases,3129,736
-Electronics,Laptops,7821,737
-Electronics,Phones,9498,738
-Furniture,Sofas,5461,739
-Furniture,Bookcases,3084,740
-Furniture,Sofas,6087,741
-Furniture,Bookcases,611,742
-Office Supplies,Markers,9909,743
-Furniture,Sofas,6485,744
-Electronics,Laptops,7259,745
-Electronics,Printers,3333,746
-Furniture,Sofas,7786,747
-Electronics,Phones,7644,748
-Furniture,Bookcases,1476,749
-Furniture,Sofas,3445,750
-Electronics,Laptops,9837,751
-Electronics,Laptops,5951,752
-Office Supplies,Markers,4699,753
-Electronics,Laptops,5557,754
-Electronics,Electronic Games,3436,755
-Electronics,Printers,9840,756
-Office Supplies,Paper,7620,757
-Furniture,Tables,4314,758
-Electronics,Laptops,8851,759
-Electronics,Laptops,544,760
-Office Supplies,Markers,537,761
-Electronics,Laptops,5944,762
-Electronics,Printers,2258,763
-Furniture,Sofas,9609,764
-Electronics,Electronic Games,9952,765
-Office Supplies,Paper,9873,766
-Electronics,Electronic Games,3560,767
-Electronics,Phones,6528,768
-Furniture,Sofas,8930,769
-Office Supplies,Paper,4521,770
-Furniture,Sofas,7091,771
-Office Supplies,Pens,2101,772
-Office Supplies,Paper,8644,773
-Furniture,Tables,6672,774
-Office Supplies,Binders,4699,775
-Furniture,Sofas,4897,776
-Furniture,Tables,5460,777
-Office Supplies,Markers,9272,778
-Office Supplies,Pens,7870,779
-Electronics,Laptops,7992,780
-Electronics,Electronic Games,6499,781
-Office Supplies,Pens,8848,782
-Office Supplies,Markers,8044,783
-Furniture,Bookcases,7417,784
-Office Supplies,Markers,3451,785
-Electronics,Laptops,8531,786
-Furniture,Sofas,6646,787
-Electronics,Laptops,2553,788
-Electronics,Phones,8490,789
-Furniture,Tables,2689,790
-Furniture,Tables,815,791
-Office Supplies,Paper,5024,792
-Electronics,Electronic Games,8962,793
-Office Supplies,Binders,1961,794
-Furniture,Sofas,526,795
-Furniture,Bookcases,6093,796
-Electronics,Electronic Games,7699,797
-Furniture,Tables,8825,798
-Electronics,Phones,2082,799
-Office Supplies,Markers,914,800
+Product_ID,Category,Sub_Category,Amount
+1,Electronics,Electronic Games,9726.0
+2,Electronics,Printers,4975.0
+3,Office Supplies,Pens,1525.0
+4,Electronics,Laptops,883.0
+5,Furniture,Tables,8127.0
+6,Furniture,Chairs,2516.0
+7,Office Supplies,Pens,2975.0
+8,Office Supplies,Markers,6851.0
+9,Furniture,Sofas,7626.0
+10,Furniture,Tables,1023.0
+11,Office Supplies,Pens,7600.0
+12,Office Supplies,Paper,7501.0
+13,Office Supplies,Paper,725.0
+14,Furniture,Tables,7201.0
+15,Office Supplies,Paper,1629.0
+16,Office Supplies,Binders,8971.0
+17,Office Supplies,Binders,2939.0
+18,Electronics,Phones,9380.0
+19,Office Supplies,Binders,8558.0
+20,Office Supplies,Paper,4080.0
+21,Electronics,Electronic Games,4206.0
+22,Office Supplies,Binders,5219.0
+23,Office Supplies,Pens,3686.0
+24,Office Supplies,Paper,6045.0
+25,Office Supplies,Pens,9337.0
+26,Electronics,Phones,4051.0
+27,Furniture,Bookcases,5011.0
+28,Furniture,Sofas,3958.0
+29,Furniture,Tables,3132.0
+30,Office Supplies,Markers,7784.0
+31,Office Supplies,Pens,5591.0
+32,Electronics,Electronic Games,5122.0
+33,Office Supplies,Binders,8293.0
+34,Electronics,Phones,2863.0
+35,Furniture,Tables,3090.0
+36,Electronics,Printers,9683.0
+37,Furniture,Tables,2463.0
+38,Furniture,Sofas,7811.0
+39,Furniture,Tables,6139.0
+40,Furniture,Chairs,8636.0
+41,Furniture,Sofas,4439.0
+42,Furniture,Tables,1016.0
+43,Furniture,Tables,5768.0
+44,Furniture,Tables,1217.0
+45,Office Supplies,Paper,953.0
+46,Furniture,Sofas,7355.0
+47,Electronics,Phones,1843.0
+48,Office Supplies,Pens,1603.0
+49,Office Supplies,Pens,2025.0
+50,Office Supplies,Binders,6800.0
+51,Furniture,Bookcases,1126.0
+52,Furniture,Tables,7533.0
+53,Office Supplies,Binders,4734.0
+54,Electronics,Electronic Games,4074.0
+55,Furniture,Sofas,2334.0
+56,Electronics,Phones,2750.0
+57,Office Supplies,Pens,8639.0
+58,Office Supplies,Markers,3808.0
+59,Office Supplies,Pens,2588.0
+60,Electronics,Electronic Games,1591.0
+61,Furniture,Chairs,1757.0
+62,Furniture,Bookcases,6940.0
+63,Electronics,Printers,5105.0
+64,Furniture,Tables,5578.0
+65,Furniture,Chairs,5224.0
+66,Office Supplies,Markers,5002.0
+67,Office Supplies,Markers,7380.0
+68,Furniture,Chairs,7595.0
+69,Furniture,Sofas,1954.0
+70,Electronics,Printers,523.0
+71,Electronics,Laptops,5704.0
+72,Furniture,Tables,8797.0
+73,Electronics,Laptops,9236.0
+74,Furniture,Sofas,9109.0
+75,Electronics,Phones,4358.0
+76,Electronics,Phones,6459.0
+77,Furniture,Bookcases,2478.0
+78,Office Supplies,Pens,9992.0
+79,Office Supplies,Binders,9619.0
+80,Electronics,Printers,9538.0
+81,Furniture,Chairs,9035.0
+82,Office Supplies,Paper,2684.0
+83,Furniture,Sofas,822.0
+84,Furniture,Chairs,9730.0
+85,Electronics,Electronic Games,2483.0
+86,Office Supplies,Binders,1297.0
+87,Electronics,Phones,7909.0
+88,Furniture,Tables,9768.0
+89,Furniture,Sofas,4968.0
+90,Electronics,Laptops,1731.0
+91,Office Supplies,Binders,3433.0
+92,Office Supplies,Binders,3887.0
+93,Office Supplies,Markers,1801.0
+94,Furniture,Tables,5301.0
+95,Office Supplies,Paper,1166.0
+96,Office Supplies,Paper,3196.0
+97,Furniture,Chairs,3428.0
+98,Office Supplies,Binders,7223.0
+99,Office Supplies,Pens,3731.0
+100,Office Supplies,Pens,8903.0
+101,Electronics,Phones,6009.0
+102,Furniture,Tables,2858.0
+103,Furniture,Sofas,8175.0
+104,Furniture,Sofas,5846.0
+105,Electronics,Laptops,706.0
+106,Furniture,Tables,9835.0
+107,Office Supplies,Markers,9691.0
+108,Furniture,Bookcases,7826.0
+109,Furniture,Sofas,770.0
+110,Furniture,Bookcases,9895.0
+111,Office Supplies,Paper,6517.0
+112,Furniture,Tables,1166.0
+113,Furniture,Chairs,9820.0
+114,Office Supplies,Binders,8563.0
+115,Electronics,Printers,4441.0
+116,Office Supplies,Paper,7340.0
+117,Electronics,Phones,5442.0
+118,Furniture,Tables,1895.0
+119,Office Supplies,Binders,5323.0
+120,Office Supplies,Markers,8850.0
+121,Office Supplies,Paper,8667.0
+122,Furniture,Tables,6903.0
+123,Office Supplies,Pens,8793.0
+124,Office Supplies,Paper,9883.0
+125,Office Supplies,Paper,5210.0
+126,Electronics,Printers,3574.0
+127,Furniture,Sofas,576.0
+128,Electronics,Printers,1860.0
+129,Office Supplies,Pens,782.0
+130,Electronics,Laptops,4371.0
+131,Electronics,Phones,8346.0
+132,Furniture,Tables,6218.0
+133,Electronics,Printers,5167.0
+134,Furniture,Sofas,2799.0
+135,Office Supplies,Markers,3234.0
+136,Furniture,Tables,4920.0
+137,Furniture,Bookcases,9078.0
+138,Furniture,Bookcases,8586.0
+139,Furniture,Sofas,5047.0
+140,Furniture,Sofas,3657.0
+141,Electronics,Electronic Games,6471.0
+142,Office Supplies,Binders,949.0
+143,Office Supplies,Binders,6823.0
+144,Furniture,Tables,4364.0
+145,Electronics,Phones,6671.0
+146,Office Supplies,Paper,7472.0
+147,Electronics,Printers,9548.0
+148,Electronics,Printers,7759.0
+149,Office Supplies,Markers,7521.0
+150,Office Supplies,Pens,9704.0
+151,Electronics,Printers,4948.0
+152,Electronics,Electronic Games,6435.0
+153,Office Supplies,Markers,9965.0
+154,Furniture,Sofas,1523.0
+155,Electronics,Electronic Games,9073.0
+156,Electronics,Laptops,6447.0
+157,Electronics,Electronic Games,8947.0
+158,Office Supplies,Pens,914.0
+159,Office Supplies,Paper,1548.0
+160,Furniture,Tables,2759.0
+161,Electronics,Laptops,1341.0
+162,Electronics,Electronic Games,9851.0
+163,Furniture,Tables,9989.0
+164,Furniture,Tables,7421.0
+165,Office Supplies,Paper,3099.0
+166,Electronics,Phones,2521.0
+167,Electronics,Electronic Games,6962.0
+168,Furniture,Bookcases,1085.0
+169,Furniture,Chairs,738.0
+170,Electronics,Electronic Games,1366.0
+171,Office Supplies,Markers,1518.0
+172,Electronics,Phones,2962.0
+173,Electronics,Printers,7131.0
+174,Office Supplies,Markers,4200.0
+175,Office Supplies,Markers,5934.0
+176,Electronics,Printers,2701.0
+177,Office Supplies,Paper,7273.0
+178,Office Supplies,Markers,2465.0
+179,Office Supplies,Markers,3479.0
+180,Electronics,Printers,5457.0
+181,Office Supplies,Markers,4957.0
+182,Office Supplies,Pens,4404.0
+183,Furniture,Sofas,8776.0
+184,Electronics,Phones,9536.0
+185,Furniture,Sofas,2225.0
+186,Furniture,Bookcases,9574.0
+187,Electronics,Electronic Games,4382.0
+188,Electronics,Laptops,8200.0
+189,Furniture,Sofas,9316.0
+190,Electronics,Electronic Games,6379.0
+191,Office Supplies,Markers,3348.0
+192,Office Supplies,Pens,8856.0
+193,Furniture,Sofas,1760.0
+194,Electronics,Printers,6351.0
+195,Office Supplies,Paper,869.0
+196,Furniture,Bookcases,1486.0
+197,Office Supplies,Binders,2999.0
+198,Office Supplies,Paper,5142.0
+199,Electronics,Laptops,1239.0
+200,Electronics,Electronic Games,1262.0
+201,Furniture,Bookcases,1033.0
+202,Electronics,Printers,1518.0
+203,Office Supplies,Paper,8581.0
+204,Office Supplies,Pens,1167.0
+205,Electronics,Laptops,2841.0
+206,Furniture,Tables,5680.0
+207,Office Supplies,Pens,8204.0
+208,Electronics,Phones,2850.0
+209,Office Supplies,Pens,907.0
+210,Office Supplies,Pens,2174.0
+211,Electronics,Electronic Games,8541.0
+212,Furniture,Bookcases,1931.0
+213,Electronics,Electronic Games,1281.0
+214,Electronics,Laptops,2404.0
+215,Furniture,Sofas,2119.0
+216,Office Supplies,Pens,3137.0
+217,Furniture,Tables,2323.0
+218,Furniture,Bookcases,1368.0
+219,Electronics,Laptops,9204.0
+220,Office Supplies,Paper,9894.0
+221,Furniture,Sofas,5322.0
+222,Furniture,Chairs,2666.0
+223,Furniture,Sofas,8383.0
+224,Office Supplies,Paper,7560.0
+225,Furniture,Sofas,1314.0
+226,Furniture,Tables,4390.0
+227,Office Supplies,Binders,1150.0
+228,Office Supplies,Pens,1574.0
+229,Office Supplies,Binders,5635.0
+230,Furniture,Sofas,6515.0
+231,Electronics,Laptops,1231.0
+232,Office Supplies,Binders,6891.0
+233,Electronics,Laptops,7524.0
+234,Electronics,Printers,6864.0
+235,Furniture,Chairs,4215.0
+236,Furniture,Bookcases,622.0
+237,Office Supplies,Pens,1755.0
+238,Electronics,Electronic Games,8020.0
+239,Electronics,Laptops,7333.0
+240,Electronics,Electronic Games,7690.0
+241,Furniture,Sofas,912.0
+242,Electronics,Laptops,2791.0
+243,Furniture,Sofas,6223.0
+244,Furniture,Chairs,8943.0
+245,Electronics,Phones,3297.0
+246,Office Supplies,Paper,8769.0
+247,Electronics,Printers,9057.0
+248,Furniture,Tables,6864.0
+249,Electronics,Laptops,9200.0
+250,Electronics,Laptops,6113.0
+251,Furniture,Tables,7733.0
+252,Furniture,Tables,8524.0
+253,Furniture,Bookcases,6187.0
+254,Office Supplies,Pens,736.0
+255,Office Supplies,Pens,9905.0
+256,Office Supplies,Paper,2493.0
+257,Office Supplies,Pens,9849.0
+258,Electronics,Printers,3423.0
+259,Furniture,Chairs,3900.0
+260,Electronics,Electronic Games,8568.0
+261,Office Supplies,Pens,3283.0
+262,Electronics,Electronic Games,7643.0
+263,Furniture,Sofas,3461.0
+264,Electronics,Electronic Games,5714.0
+265,Office Supplies,Binders,3853.0
+266,Office Supplies,Pens,6016.0
+267,Office Supplies,Markers,1290.0
+268,Electronics,Printers,4569.0
+269,Furniture,Bookcases,3083.0
+270,Office Supplies,Pens,3522.0
+271,Office Supplies,Binders,7301.0
+272,Electronics,Laptops,4462.0
+273,Electronics,Phones,6212.0
+274,Furniture,Bookcases,4027.0
+275,Electronics,Laptops,1676.0
+276,Furniture,Bookcases,3927.0
+277,Electronics,Phones,2776.0
+278,Furniture,Sofas,7684.0
+279,Electronics,Phones,6008.0
+280,Furniture,Bookcases,7344.0
+281,Office Supplies,Pens,6932.0
+282,Electronics,Electronic Games,7748.0
+283,Office Supplies,Markers,6381.0
+284,Electronics,Phones,992.0
+285,Electronics,Laptops,8649.0
+286,Electronics,Laptops,4099.0
+287,Electronics,Electronic Games,2539.0
+288,Office Supplies,Paper,9845.0
+289,Office Supplies,Paper,2901.0
+290,Office Supplies,Pens,6934.0
+291,Furniture,Bookcases,9640.0
+292,Furniture,Chairs,7930.0
+293,Office Supplies,Binders,9894.0
+294,Furniture,Tables,4534.0
+295,Electronics,Phones,4911.0
+296,Furniture,Bookcases,531.0
+297,Electronics,Electronic Games,9707.0
+298,Office Supplies,Paper,8521.0
+299,Office Supplies,Binders,8438.0
+300,Electronics,Electronic Games,1689.0
+301,Office Supplies,Paper,3936.0
+302,Electronics,Phones,7664.0
+303,Electronics,Laptops,721.0
+304,Electronics,Laptops,8364.0
+305,Furniture,Bookcases,5234.0
+306,Electronics,Phones,3944.0
+307,Office Supplies,Pens,6711.0
+308,Furniture,Tables,5031.0
+309,Office Supplies,Binders,6295.0
+310,Office Supplies,Paper,9654.0
+311,Office Supplies,Binders,3112.0
+312,Electronics,Phones,7838.0
+313,Electronics,Phones,9300.0
+314,Office Supplies,Paper,1733.0
+315,Office Supplies,Binders,874.0
+316,Office Supplies,Pens,1248.0
+317,Office Supplies,Markers,3669.0
+318,Office Supplies,Paper,514.0
+319,Electronics,Phones,3273.0
+320,Furniture,Chairs,5035.0
+321,Electronics,Printers,7702.0
+322,Electronics,Printers,9884.0
+323,Electronics,Laptops,5564.0
+324,Electronics,Electronic Games,3953.0
+325,Electronics,Printers,6488.0
+326,Electronics,Electronic Games,7856.0
+327,Office Supplies,Pens,1165.0
+328,Office Supplies,Markers,9386.0
+329,Office Supplies,Pens,3956.0
+330,Furniture,Bookcases,6449.0
+331,Office Supplies,Markers,6255.0
+332,Electronics,Electronic Games,2109.0
+333,Electronics,Phones,6707.0
+334,Office Supplies,Pens,7633.0
+335,Office Supplies,Pens,975.0
+336,Furniture,Tables,4492.0
+337,Furniture,Chairs,7957.0
+338,Furniture,Tables,4906.0
+339,Office Supplies,Pens,1379.0
+340,Electronics,Laptops,4244.0
+341,Furniture,Bookcases,5911.0
+342,Office Supplies,Markers,1818.0
+343,Office Supplies,Paper,2140.0
+344,Electronics,Laptops,2670.0
+345,Electronics,Laptops,1108.0
+346,Office Supplies,Binders,9776.0
+347,Furniture,Bookcases,535.0
+348,Office Supplies,Paper,7564.0
+349,Electronics,Electronic Games,3409.0
+350,Office Supplies,Pens,9751.0
+351,Electronics,Printers,6385.0
+352,Electronics,Electronic Games,6355.0
+353,Electronics,Printers,7377.0
+354,Office Supplies,Markers,2054.0
+355,Furniture,Chairs,7497.0
+356,Electronics,Electronic Games,2565.0
+357,Office Supplies,Pens,5024.0
+358,Office Supplies,Binders,8243.0
+359,Office Supplies,Paper,7792.0
+360,Furniture,Chairs,2346.0
+361,Furniture,Sofas,7346.0
+362,Electronics,Electronic Games,9770.0
+363,Electronics,Laptops,7179.0
+364,Electronics,Phones,5449.0
+365,Furniture,Chairs,2895.0
+366,Furniture,Chairs,697.0
+367,Furniture,Chairs,6145.0
+368,Electronics,Printers,2504.0
+369,Electronics,Phones,3124.0
+370,Electronics,Electronic Games,6934.0
+371,Office Supplies,Markers,4202.0
+372,Electronics,Printers,2239.0
+373,Electronics,Phones,2450.0
+374,Furniture,Chairs,9827.0
+375,Furniture,Sofas,8077.0
+376,Electronics,Phones,5152.0
+377,Office Supplies,Markers,2542.0
+378,Office Supplies,Markers,8102.0
+379,Furniture,Tables,3234.0
+380,Furniture,Tables,6200.0
+381,Electronics,Laptops,4470.0
+382,Office Supplies,Pens,916.0
+383,Furniture,Sofas,1165.0
+384,Furniture,Chairs,7846.0
+385,Office Supplies,Pens,3022.0
+386,Electronics,Electronic Games,5266.0
+387,Office Supplies,Pens,4853.0
+388,Office Supplies,Pens,9832.0
+389,Office Supplies,Pens,796.0
+390,Furniture,Chairs,883.0
+391,Furniture,Bookcases,4539.0
+392,Office Supplies,Binders,9659.0
+393,Electronics,Printers,9562.0
+394,Electronics,Laptops,4688.0
+395,Electronics,Phones,7900.0
+396,Furniture,Bookcases,6967.0
+397,Office Supplies,Paper,1091.0
+398,Office Supplies,Binders,6027.0
+399,Furniture,Tables,4852.0
+400,Furniture,Sofas,4314.0
+401,Office Supplies,Pens,3288.0
+402,Office Supplies,Binders,3977.0
+403,Electronics,Printers,6252.0
+404,Office Supplies,Pens,9084.0
+405,Electronics,Phones,8994.0
+406,Office Supplies,Markers,1089.0
+407,Office Supplies,Binders,6690.0
+408,Furniture,Bookcases,4985.0
+409,Electronics,Electronic Games,8590.0
+410,Furniture,Tables,6973.0
+411,Electronics,Printers,4591.0
+412,Office Supplies,Pens,9612.0
+413,Furniture,Chairs,5343.0
+414,Office Supplies,Markers,6956.0
+415,Furniture,Tables,5306.0
+416,Furniture,Sofas,8982.0
+417,Office Supplies,Paper,4826.0
+418,Office Supplies,Pens,972.0
+419,Office Supplies,Markers,3665.0
+420,Office Supplies,Pens,9808.0
+421,Furniture,Chairs,1133.0
+422,Furniture,Bookcases,6248.0
+423,Electronics,Electronic Games,5666.0
+424,Office Supplies,Markers,4171.0
+425,Electronics,Printers,6236.0
+426,Furniture,Chairs,5410.0
+427,Furniture,Sofas,3024.0
+428,Office Supplies,Markers,7434.0
+429,Electronics,Electronic Games,7213.0
+430,Furniture,Tables,3176.0
+431,Office Supplies,Binders,9144.0
+432,Furniture,Tables,4146.0
+433,Furniture,Tables,3793.0
+434,Furniture,Sofas,7169.0
+435,Furniture,Chairs,4046.0
+436,Electronics,Phones,4164.0
+437,Furniture,Tables,5389.0
+438,Furniture,Sofas,5448.0
+439,Furniture,Sofas,4115.0
+440,Furniture,Tables,4761.0
+441,Office Supplies,Binders,5899.0
+442,Furniture,Chairs,6109.0
+443,Electronics,Electronic Games,4628.0
+444,Office Supplies,Pens,4369.0
+445,Furniture,Sofas,5632.0
+446,Office Supplies,Paper,7519.0
+447,Electronics,Electronic Games,1564.0
+448,Electronics,Electronic Games,2804.0
+449,Furniture,Chairs,2321.0
+450,Electronics,Laptops,5730.0
+451,Furniture,Sofas,7441.0
+452,Office Supplies,Binders,1732.0
+453,Office Supplies,Paper,8788.0
+454,Office Supplies,Markers,838.0
+455,Furniture,Tables,3577.0
+456,Electronics,Phones,7122.0
+457,Office Supplies,Markers,7327.0
+458,Office Supplies,Markers,4932.0
+459,Electronics,Printers,4609.0
+460,Office Supplies,Paper,2328.0
+461,Electronics,Printers,4734.0
+462,Furniture,Sofas,1388.0
+463,Electronics,Laptops,8555.0
+464,Furniture,Tables,9024.0
+465,Electronics,Laptops,2468.0
+466,Electronics,Electronic Games,9438.0
+467,Electronics,Phones,2685.0
+468,Furniture,Chairs,9916.0
+469,Electronics,Electronic Games,6184.0
+470,Office Supplies,Markers,4548.0
+471,Office Supplies,Markers,7195.0
+472,Furniture,Bookcases,3098.0
+473,Furniture,Tables,5412.0
+474,Furniture,Chairs,1397.0
+475,Furniture,Chairs,9279.0
+476,Office Supplies,Paper,2596.0
+477,Furniture,Bookcases,6732.0
+478,Office Supplies,Pens,4495.0
+479,Office Supplies,Paper,9653.0
+480,Furniture,Tables,8945.0
+481,Furniture,Bookcases,4007.0
+482,Furniture,Bookcases,810.0
+483,Furniture,Bookcases,9789.0
+484,Electronics,Electronic Games,9229.0
+485,Office Supplies,Markers,8141.0
+486,Furniture,Sofas,1067.0
+487,Office Supplies,Binders,3839.0
+488,Electronics,Electronic Games,2858.0
+489,Furniture,Bookcases,2137.0
+490,Furniture,Chairs,2831.0
+491,Furniture,Sofas,3913.0
+492,Office Supplies,Paper,4468.0
+493,Electronics,Laptops,1579.0
+494,Furniture,Chairs,3760.0
+495,Office Supplies,Pens,8706.0
+496,Electronics,Electronic Games,4708.0
+497,Furniture,Chairs,8089.0
+498,Electronics,Printers,5462.0
+499,Electronics,Electronic Games,6392.0
+500,Electronics,Electronic Games,8706.0
+501,Office Supplies,Pens,2349.0
+502,Furniture,Chairs,8220.0
+503,Furniture,Chairs,2379.0
+504,Office Supplies,Markers,7377.0
+505,Furniture,Tables,717.0
+506,Furniture,Sofas,508.0
+507,Electronics,Printers,9382.0
+508,Furniture,Tables,4936.0
+509,Furniture,Sofas,2663.0
+510,Electronics,Printers,5151.0
+511,Office Supplies,Pens,2514.0
+512,Electronics,Laptops,6129.0
+513,Furniture,Bookcases,4395.0
+514,Furniture,Chairs,5393.0
+515,Electronics,Phones,2280.0
+516,Office Supplies,Paper,6596.0
+517,Office Supplies,Paper,4510.0
+518,Electronics,Phones,6077.0
+519,Electronics,Printers,5379.0
+520,Office Supplies,Markers,4629.0
+521,Electronics,Laptops,2710.0
+522,Office Supplies,Binders,3224.0
+523,Office Supplies,Markers,8042.0
+524,Office Supplies,Binders,3957.0
+525,Office Supplies,Markers,8769.0
+526,Office Supplies,Pens,2957.0
+527,Office Supplies,Paper,5344.0
+528,Electronics,Laptops,6061.0
+529,Furniture,Tables,5376.0
+530,Electronics,Printers,2792.0
+531,Office Supplies,Binders,2944.0
+532,Office Supplies,Markers,4220.0
+533,Office Supplies,Binders,8526.0
+534,Furniture,Bookcases,8218.0
+535,Electronics,Phones,599.0
+536,Furniture,Bookcases,2727.0
+537,Office Supplies,Pens,2589.0
+538,Electronics,Electronic Games,3776.0
+539,Furniture,Bookcases,5402.0
+540,Office Supplies,Pens,5165.0
+541,Furniture,Bookcases,4863.0
+542,Office Supplies,Pens,1626.0
+543,Furniture,Tables,8851.0
+544,Furniture,Tables,9680.0
+545,Office Supplies,Pens,8468.0
+546,Furniture,Chairs,4441.0
+547,Furniture,Sofas,6622.0
+548,Furniture,Tables,3260.0
+549,Furniture,Tables,8709.0
+550,Office Supplies,Binders,5250.0
+551,Office Supplies,Paper,4116.0
+552,Office Supplies,Paper,1109.0
+553,Office Supplies,Pens,3573.0
+554,Electronics,Phones,8055.0
+555,Electronics,Laptops,6829.0
+556,Office Supplies,Paper,6390.0
+557,Office Supplies,Pens,5831.0
+558,Furniture,Sofas,7952.0
+559,Furniture,Bookcases,3659.0
+560,Office Supplies,Pens,4183.0
+561,Electronics,Phones,7478.0
+562,Electronics,Phones,702.0
+563,Furniture,Chairs,4037.0
+564,Furniture,Chairs,5014.0
+565,Electronics,Laptops,9879.0
+566,Electronics,Phones,8762.0
+567,Office Supplies,Pens,8490.0
+568,Furniture,Sofas,6951.0
+569,Electronics,Phones,1078.0
+570,Office Supplies,Binders,8560.0
+571,Electronics,Electronic Games,1031.0
+572,Office Supplies,Markers,6402.0
+573,Electronics,Printers,5916.0
+574,Furniture,Chairs,4015.0
+575,Electronics,Electronic Games,9335.0
+576,Office Supplies,Binders,4706.0
+577,Office Supplies,Markers,6584.0
+578,Furniture,Sofas,6389.0
+579,Electronics,Printers,9869.0
+580,Office Supplies,Markers,655.0
+581,Electronics,Phones,798.0
+582,Electronics,Printers,7967.0
+583,Furniture,Tables,3756.0
+584,Office Supplies,Markers,5196.0
+585,Furniture,Bookcases,6586.0
+586,Office Supplies,Markers,6673.0
+587,Furniture,Tables,714.0
+588,Office Supplies,Pens,1083.0
+589,Furniture,Bookcases,2401.0
+590,Electronics,Phones,1045.0
+591,Office Supplies,Markers,7806.0
+592,Furniture,Sofas,5263.0
+593,Office Supplies,Pens,6147.0
+594,Electronics,Phones,7484.0
+595,Furniture,Sofas,7700.0
+596,Office Supplies,Markers,8537.0
+597,Furniture,Chairs,8858.0
+598,Electronics,Printers,5313.0
+599,Furniture,Sofas,3281.0
+600,Office Supplies,Pens,8681.0
+601,Furniture,Sofas,6195.0
+602,Furniture,Chairs,3877.0
+603,Electronics,Printers,9369.0
+604,Electronics,Printers,8680.0
+605,Electronics,Laptops,3067.0
+606,Office Supplies,Markers,9002.0
+607,Office Supplies,Pens,7105.0
+608,Furniture,Chairs,5317.0
+609,Furniture,Tables,6304.0
+610,Office Supplies,Paper,9565.0
+611,Office Supplies,Paper,8245.0
+612,Electronics,Laptops,1592.0
+613,Electronics,Phones,8400.0
+614,Office Supplies,Paper,4963.0
+615,Electronics,Printers,2472.0
+616,Furniture,Chairs,9132.0
+617,Office Supplies,Binders,8305.0
+618,Electronics,Electronic Games,1010.0
+619,Electronics,Phones,4544.0
+620,Electronics,Phones,5900.0
+621,Office Supplies,Markers,8861.0
+622,Electronics,Phones,8158.0
+623,Office Supplies,Pens,3411.0
+624,Office Supplies,Markers,9406.0
+625,Electronics,Printers,1156.0
+626,Furniture,Bookcases,5354.0
+627,Electronics,Electronic Games,8780.0
+628,Furniture,Sofas,6783.0
+629,Office Supplies,Pens,1778.0
+630,Electronics,Printers,9399.0
+631,Furniture,Sofas,7957.0
+632,Furniture,Chairs,1638.0
+633,Furniture,Tables,1786.0
+634,Office Supplies,Paper,4751.0
+635,Office Supplies,Paper,8979.0
+636,Electronics,Phones,2727.0
+637,Electronics,Printers,1093.0
+638,Office Supplies,Paper,2636.0
+639,Electronics,Electronic Games,7344.0
+640,Office Supplies,Paper,7306.0
+641,Electronics,Printers,5832.0
+642,Furniture,Tables,8572.0
+643,Electronics,Printers,8059.0
+644,Furniture,Sofas,3661.0
+645,Office Supplies,Paper,2451.0
+646,Furniture,Tables,7067.0
+647,Electronics,Electronic Games,4307.0
+648,Furniture,Chairs,5694.0
+649,Office Supplies,Binders,962.0
+650,Furniture,Bookcases,2995.0
+651,Office Supplies,Markers,2047.0
+652,Electronics,Laptops,2078.0
+653,Electronics,Printers,2737.0
+654,Office Supplies,Paper,8194.0
+655,Furniture,Sofas,9914.0
+656,Office Supplies,Pens,5470.0
+657,Furniture,Bookcases,1496.0
+658,Office Supplies,Paper,3228.0
+659,Electronics,Laptops,3918.0
+660,Furniture,Sofas,9921.0
+661,Furniture,Chairs,9694.0
+662,Office Supplies,Paper,5028.0
+663,Office Supplies,Paper,594.0
+664,Furniture,Tables,5954.0
+665,Furniture,Bookcases,3518.0
+666,Electronics,Laptops,4157.0
+667,Office Supplies,Markers,3747.0
+668,Office Supplies,Binders,3194.0
+669,Office Supplies,Binders,8548.0
+670,Furniture,Tables,6089.0
+671,Furniture,Tables,2586.0
+672,Office Supplies,Paper,3757.0
+673,Furniture,Sofas,5193.0
+674,Electronics,Electronic Games,7493.0
+675,Office Supplies,Markers,2062.0
+676,Electronics,Phones,7163.0
+677,Electronics,Phones,4026.0
+678,Furniture,Chairs,1894.0
+679,Electronics,Electronic Games,7144.0
+680,Electronics,Laptops,3482.0
+681,Office Supplies,Paper,4172.0
+682,Furniture,Sofas,6265.0
+683,Electronics,Electronic Games,2931.0
+684,Furniture,Chairs,1146.0
+685,Electronics,Printers,9215.0
+686,Furniture,Chairs,7895.0
+687,Office Supplies,Pens,2740.0
+688,Office Supplies,Markers,5338.0
+689,Office Supplies,Pens,3095.0
+690,Electronics,Printers,6017.0
+691,Office Supplies,Pens,4904.0
+692,Office Supplies,Binders,3080.0
+693,Electronics,Phones,1992.0
+694,Furniture,Sofas,5346.0
+695,Electronics,Printers,8422.0
+696,Furniture,Bookcases,6105.0
+697,Office Supplies,Pens,670.0
+698,Electronics,Laptops,4057.0
+699,Office Supplies,Pens,8178.0
+700,Furniture,Tables,8752.0
+701,Electronics,Printers,8974.0
+702,Electronics,Phones,9090.0
+703,Electronics,Electronic Games,851.0
+704,Electronics,Phones,5427.0
+705,Furniture,Bookcases,2695.0
+706,Office Supplies,Pens,2386.0
+707,Office Supplies,Pens,2284.0
+708,Electronics,Phones,6034.0
+709,Furniture,Bookcases,8956.0
+710,Office Supplies,Markers,7122.0
+711,Office Supplies,Markers,9775.0
+712,Furniture,Bookcases,3309.0
+713,Electronics,Electronic Games,4163.0
+714,Furniture,Sofas,5518.0
+715,Electronics,Phones,7566.0
+716,Electronics,Printers,762.0
+717,Electronics,Laptops,3316.0
+718,Furniture,Bookcases,5994.0
+719,Electronics,Laptops,3854.0
+720,Office Supplies,Markers,7019.0
+721,Electronics,Laptops,5954.0
+722,Furniture,Bookcases,9752.0
+723,Electronics,Electronic Games,5335.0
+724,Electronics,Electronic Games,1454.0
+725,Furniture,Bookcases,6724.0
+726,Office Supplies,Binders,9874.0
+727,Electronics,Phones,4918.0
+728,Office Supplies,Paper,3189.0
+729,Electronics,Electronic Games,2684.0
+730,Office Supplies,Pens,7626.0
+731,Electronics,Printers,6669.0
+732,Office Supplies,Markers,6123.0
+733,Office Supplies,Paper,3265.0
+734,Office Supplies,Markers,8104.0
+735,Furniture,Tables,847.0
+736,Furniture,Bookcases,3129.0
+737,Electronics,Laptops,7821.0
+738,Electronics,Phones,9498.0
+739,Furniture,Sofas,5461.0
+740,Furniture,Bookcases,3084.0
+741,Furniture,Sofas,6087.0
+742,Furniture,Bookcases,611.0
+743,Office Supplies,Markers,9909.0
+744,Furniture,Sofas,6485.0
+745,Electronics,Laptops,7259.0
+746,Electronics,Printers,3333.0
+747,Furniture,Sofas,7786.0
+748,Electronics,Phones,7644.0
+749,Furniture,Bookcases,1476.0
+750,Furniture,Sofas,3445.0
+751,Electronics,Laptops,9837.0
+752,Electronics,Laptops,5951.0
+753,Office Supplies,Markers,4699.0
+754,Electronics,Laptops,5557.0
+755,Electronics,Electronic Games,3436.0
+756,Electronics,Printers,9840.0
+757,Office Supplies,Paper,7620.0
+758,Furniture,Tables,4314.0
+759,Electronics,Laptops,8851.0
+760,Electronics,Laptops,544.0
+761,Office Supplies,Markers,537.0
+762,Electronics,Laptops,5944.0
+763,Electronics,Printers,2258.0
+764,Furniture,Sofas,9609.0
+765,Electronics,Electronic Games,9952.0
+766,Office Supplies,Paper,9873.0
+767,Electronics,Electronic Games,3560.0
+768,Electronics,Phones,6528.0
+769,Furniture,Sofas,8930.0
+770,Office Supplies,Paper,4521.0
+771,Furniture,Sofas,7091.0
+772,Office Supplies,Pens,2101.0
+773,Office Supplies,Paper,8644.0
+774,Furniture,Tables,6672.0
+775,Office Supplies,Binders,4699.0
+776,Furniture,Sofas,4897.0
+777,Furniture,Tables,5460.0
+778,Office Supplies,Markers,9272.0
+779,Office Supplies,Pens,7870.0
+780,Electronics,Laptops,7992.0
+781,Electronics,Electronic Games,6499.0
+782,Office Supplies,Pens,8848.0
+783,Office Supplies,Markers,8044.0
+784,Furniture,Bookcases,7417.0
+785,Office Supplies,Markers,3451.0
+786,Electronics,Laptops,8531.0
+787,Furniture,Sofas,6646.0
+788,Electronics,Laptops,2553.0
+789,Electronics,Phones,8490.0
+790,Furniture,Tables,2689.0
+791,Furniture,Tables,815.0
+792,Office Supplies,Paper,5024.0
+793,Electronics,Electronic Games,8962.0
+794,Office Supplies,Binders,1961.0
+795,Furniture,Sofas,526.0
+796,Furniture,Bookcases,6093.0
+797,Electronics,Electronic Games,7699.0
+798,Furniture,Tables,8825.0
+799,Electronics,Phones,2082.0
+800,Office Supplies,Markers,914.0
